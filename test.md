@@ -14,10 +14,10 @@
 
 ###推荐工具
 
-> Windows: [Markpad](http://code52.org/DownmarkerWPF/)
-> Macos: [Mou](http://mouapp.com/)
-> Linux: [Sublime Text 2](http://www.sublimetext.com/) 
-> 跨平台：`马克飞象+印象笔记` chrome appstore中下载，推荐使用
+> * Windows: [Markpad](http://code52.org/DownmarkerWPF/)
+> * Macos: [Mou](http://mouapp.com/)
+> * Linux: [Sublime Text 2](http://www.sublimetext.com/) 
+> * 跨平台：`马克飞象+印象笔记` chrome appstore中下载，推荐使用
 
 ###示例
 
